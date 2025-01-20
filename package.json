@@ -2,7 +2,7 @@
   "name": "example0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/lsaf/filedownload/sdd%3A///general/biostat/tools/webr",
+  "homepage": "/lsaf/filedownload/sdd%3A///general/biostat/apps/webr",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
